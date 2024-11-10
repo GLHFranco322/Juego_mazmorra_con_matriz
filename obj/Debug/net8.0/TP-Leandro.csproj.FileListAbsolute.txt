@@ -1,0 +1,30 @@
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\bin\Debug\net8.0\TP-Leandro.exe
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\bin\Debug\net8.0\TP-Leandro.deps.json
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\bin\Debug\net8.0\TP-Leandro.runtimeconfig.json
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\bin\Debug\net8.0\TP-Leandro.dll
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\bin\Debug\net8.0\TP-Leandro.pdb
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\obj\Debug\net8.0\TP-Leandro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\obj\Debug\net8.0\TP-Leandro.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\obj\Debug\net8.0\TP-Leandro.AssemblyInfo.cs
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\obj\Debug\net8.0\TP-Leandro.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\obj\Debug\net8.0\TP-Leandro.dll
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\obj\Debug\net8.0\refint\TP-Leandro.dll
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\obj\Debug\net8.0\TP-Leandro.pdb
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\obj\Debug\net8.0\TP-Leandro.genruntimeconfig.cache
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\obj\Debug\net8.0\ref\TP-Leandro.dll
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\bin\Debug\net8.0\TP-Leandro.exe
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\bin\Debug\net8.0\TP-Leandro.deps.json
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\bin\Debug\net8.0\TP-Leandro.runtimeconfig.json
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\bin\Debug\net8.0\TP-Leandro.dll
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\bin\Debug\net8.0\TP-Leandro.pdb
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\obj\Debug\net8.0\TP-Leandro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\obj\Debug\net8.0\TP-Leandro.AssemblyInfoInputs.cache
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\obj\Debug\net8.0\TP-Leandro.AssemblyInfo.cs
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\obj\Debug\net8.0\TP-Leandro.csproj.CoreCompileInputs.cache
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\obj\Debug\net8.0\TP-Leandro.sourcelink.json
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\obj\Debug\net8.0\TP-Leandro.dll
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\obj\Debug\net8.0\refint\TP-Leandro.dll
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\obj\Debug\net8.0\TP-Leandro.pdb
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\obj\Debug\net8.0\TP-Leandro.genruntimeconfig.cache
+C:\Users\Franco\OneDrive\Documents\CURSO DE DEV\New folder\Leandro_tp\Leandro_tp\TP-Leandro\obj\Debug\net8.0\ref\TP-Leandro.dll
+C:\Users\Franco\Documents\Franco\VS Code\C#\TP-Leandro\obj\Debug\net8.0\TP-Leandro.sourcelink.json
